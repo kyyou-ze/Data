@@ -1,0 +1,24 @@
+[
+  {
+    "img": "https://qu.ax/KNQLP.jpeg",
+    "title": "Judul Novel 1",
+    "year": "2024",
+    "summary": "Deskripsi singkat novel 1.",
+    "status": "Ongoing",
+    "type": "Novel",
+    "genre1": "Fantasi",
+    "genre2": "Petualangan",
+    "rating": "4.5"
+  },
+  {
+    "img": "https://qu.ax/KNQLP.jpeg",
+    "title": "Judul Novel 2",
+    "year": "2023",
+    "summary": "Deskripsi singkat novel 2.",
+    "status": "Completed",
+    "type": "Light Novel",
+    "genre1": "Romance",
+    "genre2": "Drama",
+    "rating": "4.7"
+  }
+]
