@@ -24,7 +24,7 @@
   {
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 3",
-    "year": "2024",
+    "year": "2022",
     "summary": "Deskripsi singkat novel 3.",
     "status": "Ongoing",
     "type": "Novel",
@@ -35,12 +35,12 @@
   {
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 4",
-    "year": "2023",
+    "year": "2021",
     "summary": "Deskripsi singkat novel 4.",
     "status": "Completed",
     "type": "Light Novel",
     "genre1": "Romance",
-    "genre2": "Drama",
+    "genre2": "action",
     "rating": "4.7"
   }
 ]
