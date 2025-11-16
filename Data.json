@@ -1,5 +1,6 @@
 [
   {
+    "id": "1",
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 1",
     "year": "2024",
@@ -11,6 +12,7 @@
     "rating": "4.5"
   },
   {
+    "id": "2",
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 2",
     "year": "2023",
@@ -22,6 +24,7 @@
     "rating": "4.7"
   },
   {
+    "id": "3",
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 3",
     "year": "2022",
@@ -33,6 +36,7 @@
     "rating": "4.5"
   },
   {
+    "id": "4",
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 4",
     "year": "2021",
