@@ -9,7 +9,7 @@
     "type": "Novel",
     "genre1": "Fantasi",
     "genre2": "Petualangan",
-    "rating": "4.5"
+    "rating": "4.5",
     "chapters": [
       {
         "title": "Chapter 1: Awal",
@@ -33,7 +33,7 @@
     "type": "Light Novel",
     "genre1": "Romance",
     "genre2": "Drama",
-    "rating": "4.7"
+    "rating": "4.7",
     "chapters": [
       {
         "title": "Chapter 1: wow",
@@ -57,7 +57,7 @@
     "type": "Novel",
     "genre1": "Fantasi",
     "genre2": "Petualangan",
-    "rating": "4.5"
+    "rating": "4.5",
     "chapters": [
       {
         "title": "Chapter 1: woi",
@@ -81,7 +81,7 @@
     "type": "Light Novel",
     "genre1": "Romance",
     "genre2": "action",
-    "rating": "4.7"
+    "rating": "4.7",
     "chapters": [
       {
         "title": "Chapter 1: wow",
