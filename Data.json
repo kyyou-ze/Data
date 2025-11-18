@@ -10,6 +10,18 @@
     "genre1": "Fantasi",
     "genre2": "Petualangan",
     "rating": "4.5"
+    "chapters": [
+      {
+        "title": "Chapter 1: Awal",
+        "views": 123,
+        "content": "Isi lengkap dari Chapter 1..."
+      },
+      {
+        "title": "Chapter 2: Pertemuan",
+        "views": 98,
+        "content": "Isi lengkap dari Chapter 2..."
+      }
+    ]
   },
   {
     "id": "2",
@@ -22,6 +34,18 @@
     "genre1": "Romance",
     "genre2": "Drama",
     "rating": "4.7"
+    "chapters": [
+      {
+        "title": "Chapter 1: wow",
+        "views": 123,
+        "content": "Isi lengkap dari Chapter 1..."
+      },
+      {
+        "title": "Chapter 2: cihuy",
+        "views": 98,
+        "content": "Isi lengkap dari Chapter 2..."
+      }
+    ]
   },
   {
     "id": "3",
@@ -34,6 +58,18 @@
     "genre1": "Fantasi",
     "genre2": "Petualangan",
     "rating": "4.5"
+    "chapters": [
+      {
+        "title": "Chapter 1: woi",
+        "views": 123,
+        "content": "Isi lengkap dari Chapter 1..."
+      },
+      {
+        "title": "Chapter 2: ppk",
+        "views": 98,
+        "content": "Isi lengkap dari Chapter 2..."
+      }
+    ]
   },
   {
     "id": "4",
@@ -46,5 +82,17 @@
     "genre1": "Romance",
     "genre2": "action",
     "rating": "4.7"
+    "chapters": [
+      {
+        "title": "Chapter 1: wow",
+        "views": 123,
+        "content": "Isi lengkap dari Chapter 1..."
+      },
+      {
+        "title": "Chapter 2: Pertemuan",
+        "views": 98,
+        "content": "Isi lengkap dari Chapter 2..."
+      }
+    ]
   }
 ]
