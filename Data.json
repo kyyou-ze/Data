@@ -24,6 +24,30 @@
     ]
   },
   {
+    "id": "5",
+    "img": "https://qu.ax/KNQLP.jpeg",
+    "title": "Judul Novel 5",
+    "year": "2024",
+    "summary": "Deskripsi singkat novel 5.",
+    "status": "Ongoing",
+    "type": "Novel",
+    "genre1": "Fantasi",
+    "genre2": "Petualangan",
+    "rating": "4.5",
+    "chapters": [
+      {
+        "title": "Chapter 1: Awal",
+        "views": 123,
+        "content": "Isi lengkap dari Chapter 1..."
+      },
+      {
+        "title": "Chapter 2: Pertemuan",
+        "views": 98,
+        "content": "Isi lengkap dari Chapter 2..."
+      }
+    ]
+  },
+  {
     "id": "2",
     "img": "https://qu.ax/KNQLP.jpeg",
     "title": "Judul Novel 2",
