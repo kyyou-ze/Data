@@ -77,6 +77,12 @@
     "genre1": "Romance",
     "genre2": "action",
     "rating": "4.7",
-    "chapters": []
+    "chapters": [
+      {
+        "title": "Wik",
+        "views": 136,
+        "content": "Gsome"
+      }
+    ]
   }
 ]
