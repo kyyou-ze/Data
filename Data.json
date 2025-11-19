@@ -126,7 +126,14 @@
     "genre1": "Fantasy",
     "genre2": "Drama",
     "rating": "5.0",
-    "chapters": [],
-    "updatedAt": "2025-11-19T14:38:29.413Z"
+    "chapters": [
+      {
+        "title": "X",
+        "views": 8,
+        "content": "C",
+        "updatedAt": "2025-11-19T23:23:13.471Z"
+      }
+    ],
+    "updatedAt": "2025-11-19T23:23:13.471Z"
   }
 ]
