@@ -112,8 +112,15 @@
     "genre1": "Fantasy",
     "genre2": "Drama",
     "rating": "4.7",
-    "chapters": [],
-    "updatedAt": "2025-11-19T14:39:11.075Z"
+    "chapters": [
+      {
+        "title": "Aku",
+        "views": 12,
+        "content": "Https raw",
+        "updatedAt": "2025-11-19T23:25:22.186Z"
+      }
+    ],
+    "updatedAt": "2025-11-19T23:25:22.186Z"
   },
   {
     "id": "6",
