@@ -55,7 +55,7 @@
   },
   {
     "id": "3",
-    "img": "https://qu.ax/KNQLP.jpeg",
+    "img": "https://qu.ax/mhJqL.png",
     "title": "Judul Novel 3",
     "year": "2022",
     "summary": "Deskripsi singkat novel 3.",
@@ -68,14 +68,17 @@
       {
         "title": "Chapter 1: woi",
         "views": 123,
-        "content": "Isi lengkap dari Chapter 1..."
+        "content": "Isi lengkap dari Chapter 1...",
+        "updatedAt": "2025-11-19T14:08:07.596Z"
       },
       {
         "title": "Chapter 2: ppk",
         "views": 98,
-        "content": "Isi lengkap dari Chapter 2..."
+        "content": "Isi lengkap dari Chapter 2...",
+        "updatedAt": "2025-11-19T14:08:07.596Z"
       }
-    ]
+    ],
+    "updatedAt": "2025-11-19T14:08:07.596Z"
   },
   {
     "id": "4",
