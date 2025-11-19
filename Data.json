@@ -82,8 +82,8 @@
   },
   {
     "id": "4",
-    "img": "https://qu.ax/AyzaM.png",
-    "title": "Judul Novel 4",
+    "img": "https://qu.ax/koKPh.png",
+    "title": "Conquering the Academy with Just a Sashimi Knife",
     "year": "2021",
     "summary": "Deskripsi singkat novel 4.",
     "status": "Completed",
@@ -95,9 +95,11 @@
       {
         "title": "Wik",
         "views": 136,
-        "content": "Gsome"
+        "content": "Gsome",
+        "updatedAt": "2025-11-19T14:28:21.240Z"
       }
-    ]
+    ],
+    "updatedAt": "2025-11-19T14:28:21.240Z"
   },
   {
     "id": "5",
