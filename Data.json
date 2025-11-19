@@ -84,5 +84,18 @@
         "content": "Gsome"
       }
     ]
+  },
+  {
+    "id": "5",
+    "img": "https://qu.ax/AyzaM.png",
+    "title": "Ww",
+    "year": "1945",
+    "summary": "Wow",
+    "status": "Ongoing",
+    "type": "Novel",
+    "genre1": "Wow",
+    "genre2": "Iluhuy",
+    "rating": "100/100",
+    "chapters": []
   }
 ]
