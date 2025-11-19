@@ -77,17 +77,6 @@
     "genre1": "Romance",
     "genre2": "action",
     "rating": "4.7",
-    "chapters": [
-      {
-        "title": "Chapter 1: wow",
-        "views": 1945,
-        "content": "Isi lengkap dari Chapter 1..."
-      },
-      {
-        "title": "Chapter 2: Pertemuan",
-        "views": 98,
-        "content": "Isi lengkap dari Chapter 2..."
-      }
-    ]
+    "chapters": []
   }
 ]
