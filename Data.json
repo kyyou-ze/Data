@@ -28,7 +28,7 @@
   },
   {
     "id": "2",
-    "img": "https://qu.ax/KNQLP.jpeg",
+    "img": "https://qu.ax/kqhif.png",
     "title": "Judul Novel 2",
     "year": "2023",
     "summary": "Deskripsi singkat novel 2.",
@@ -41,14 +41,17 @@
       {
         "title": "Chapter 1: wow",
         "views": 123,
-        "content": "Isi lengkap dari Chapter 1..."
+        "content": "Isi lengkap dari Chapter 1...",
+        "updatedAt": "2025-11-19T14:07:46.460Z"
       },
       {
         "title": "Chapter 2: cihuy",
         "views": 98,
-        "content": "Isi lengkap dari Chapter 2..."
+        "content": "Isi lengkap dari Chapter 2...",
+        "updatedAt": "2025-11-19T14:07:46.460Z"
       }
-    ]
+    ],
+    "updatedAt": "2025-11-19T14:07:46.460Z"
   },
   {
     "id": "3",
